@@ -34,7 +34,7 @@
     "@types/passport-local": "^1.0.33",
     "bcrypt": "^5.0.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "lodash": "^4.17.19",
     "mongoose": "^5.9.24",
     "passport": "^0.4.1",
